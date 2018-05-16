@@ -1,0 +1,13 @@
+c:\users\selyakovva\documents\visual studio 2017\Projects\VistaStyle\VistaStyle\bin\Debug\VistaStyle.exe
+c:\users\selyakovva\documents\visual studio 2017\Projects\VistaStyle\VistaStyle\bin\Debug\VistaStyle.pdb
+c:\users\selyakovva\documents\visual studio 2017\Projects\VistaStyle\VistaStyle\obj\Debug\VistaStyle.csprojResolveAssemblyReference.cache
+c:\users\selyakovva\documents\visual studio 2017\Projects\VistaStyle\VistaStyle\obj\Debug\MainWindow.g.cs
+c:\users\selyakovva\documents\visual studio 2017\Projects\VistaStyle\VistaStyle\obj\Debug\App.g.cs
+c:\users\selyakovva\documents\visual studio 2017\Projects\VistaStyle\VistaStyle\obj\Debug\VistaStyle_MarkupCompile.cache
+c:\users\selyakovva\documents\visual studio 2017\Projects\VistaStyle\VistaStyle\obj\Debug\VistaStyle_MarkupCompile.lref
+c:\users\selyakovva\documents\visual studio 2017\Projects\VistaStyle\VistaStyle\obj\Debug\MainWindow.baml
+c:\users\selyakovva\documents\visual studio 2017\Projects\VistaStyle\VistaStyle\obj\Debug\VistaStyle.g.resources
+c:\users\selyakovva\documents\visual studio 2017\Projects\VistaStyle\VistaStyle\obj\Debug\VistaStyle.Properties.Resources.resources
+c:\users\selyakovva\documents\visual studio 2017\Projects\VistaStyle\VistaStyle\obj\Debug\VistaStyle.csproj.GenerateResource.Cache
+c:\users\selyakovva\documents\visual studio 2017\Projects\VistaStyle\VistaStyle\obj\Debug\VistaStyle.exe
+c:\users\selyakovva\documents\visual studio 2017\Projects\VistaStyle\VistaStyle\obj\Debug\VistaStyle.pdb
